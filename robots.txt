@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sariverw.github.io/sitemap.html.gz
+Sitemap: https://sariverw.github.io/app/sitemap.html.gz
+Sitemap: https://sariverw.github.io/assets/sitemap.html.gz
+Sitemap: https://sariverw.github.io/css/sitemap.html.gz
+Sitemap: https://sariverw.github.io/includes/sitemap.html.gz
+Sitemap: https://sariverw.github.io/item/sitemap.html.gz
+Sitemap: https://sariverw.github.io/src/sitemap.html.gz
